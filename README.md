@@ -7,11 +7,11 @@ Date: 2012-05-20 09:30
 ---</pre>  
 
 Usage
-======
+================  
 After installing press ctrl+shift+p (Windows, Linux) or cmd+shift+p (OS X) and start typing scriptogram and hit enter
 
 Package Installation
-===================
+================  
 If not using [Package Control](http://wbond.net/sublime_packages/package_control), you can install it manually:
 
 Bring up a command line in the Packages/ folder of your Sublime user folder, and execute the following:
