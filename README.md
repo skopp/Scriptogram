@@ -6,11 +6,11 @@ Title: My blog post
 Date: 2012-05-20 09:30
 ---</pre>  
 
-Usage
+Usage  
 ================  
 After installing press ctrl+shift+p (Windows, Linux) or cmd+shift+p (OS X) and start typing scriptogram and hit enter
 
-Package Installation
+Package Installation  
 ================  
 If not using [Package Control](http://wbond.net/sublime_packages/package_control), you can install it manually:
 
@@ -21,7 +21,7 @@ cd Scriptogram
 git clone git://github.com/scttcper/Scriptogram.git
 </pre>
 When you launch Sublime Text 2, it will reload the packages in the packages folder. 
-
+  
 Features
 ======== 
 Were listed in the description.  It really only does one simple thing.
