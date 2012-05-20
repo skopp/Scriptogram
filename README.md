@@ -1,10 +1,10 @@
 Description
 ==================
 This addon was made for use on [http://scriptogr.am/](http://scriptogr.am/) but it may work on other markdown flavored blogging platforms.  It adds a properly fomatted heading as seen below
->---
->Title: My blog post
->Date: 2012-05-20 09:30
->---  
+<pre>---
+Title: My blog post
+Date: 2012-05-20 09:30
+---</pre>  
 
 Usage
 ======
