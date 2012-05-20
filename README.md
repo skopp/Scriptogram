@@ -19,8 +19,8 @@ Bring up a command line in the Packages/ folder of your Sublime user folder, and
 <pre>mkdir Scriptogram 
 cd Scriptogram 
 git clone git://github.com/scttcper/Scriptogram.git
-
-When you launch Sublime Text 2, it will reload the packages in the packages folder. </pre>
+</pre>
+When you launch Sublime Text 2, it will reload the packages in the packages folder. 
 
 Features
 ========
